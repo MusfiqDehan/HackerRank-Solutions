@@ -1,3 +1,6 @@
+///I have shown Two Procedures here using c++ language.
+///These both are correct and will give correct answer also.
+
 //Procedure-1: Using char array
 
 #include <bits/stdc++.h>
