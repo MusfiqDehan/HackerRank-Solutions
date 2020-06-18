@@ -1,3 +1,8 @@
+/*
+**Md. Musfiqur Rahaman (Dehan)
+**North South University
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
