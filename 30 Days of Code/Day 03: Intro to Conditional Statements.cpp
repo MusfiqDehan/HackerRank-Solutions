@@ -8,7 +8,7 @@ int main()
 
     if (n % 2 != 0) 
         cout << "Weird" << endl;
-    if (n % 2 == 0 && n>=2 && n<=5)
+    if (n % 2 == 0 && n >= 2 && n <= 5)
         cout << "Not Weird" << endl;
     if (n % 2 == 0 && n >= 6 && n <= 20)
         cout << "Weird" << endl;
