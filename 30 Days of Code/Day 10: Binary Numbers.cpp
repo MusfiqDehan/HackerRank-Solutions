@@ -7,11 +7,11 @@ int main() {
 
     while (n > 0) 
     {
-        int r = n % 2;
+        int r = n % 2; //Converting Decimal to Binary
 
         if (r == 1)
         {
-            count++;
+            count++; //Counting no of consecutive 1
 
             if (count > max)
             {
@@ -23,7 +23,7 @@ int main() {
             count = 0;
         }
 
-        n = n / 2;
+        n = n / 2; //Converting Decimal to Binary
     }
 
     cout << max << endl;
