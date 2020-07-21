@@ -1,3 +1,6 @@
+//Array is the simplest and most used Data Structure
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
