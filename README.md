@@ -10,6 +10,7 @@ Problems that I have solved in <a href="https://www.hackerrank.com">HackerRank</
   <li><a href="">Problem Solving</a></li>
     <ul>
       <li>Algorithms</li>
+      <il>Data Structures</i>
     </ul>
 </ul>
 
