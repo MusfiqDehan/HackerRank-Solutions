@@ -12,5 +12,6 @@ Problems that I have solved in <a href="https://www.hackerrank.com">HackerRank</
       <li>Algorithms</li>
       <li>Data Structures</li>
     </ul>
+  <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Mathematics">Mathematics</a></li>
 </ul>
 
