@@ -9,8 +9,8 @@ Problems that I have solved in <a href="https://www.hackerrank.com">HackerRank</
   <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/SQL">SQL</a></li>
   <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Problem%Solving">Problem Solving</a></li>
     <ul>
-      <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Problem%Solving/Algorithm">Algorithm</a></li>
-      <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Problem%20Solving/Data%20Structures">Data Structure</a></li>
+      <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Problem%20Solving/Algorithms">Algorithms</a></li>
+      <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Problem%20Solving/Data%20Structures">Data Structures</a></li>
     </ul>
   <li><a href="https://github.com/MusfiqDehan/HackerRank/tree/master/Mathematics">Mathematics</a></li>
 </ul>
