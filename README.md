@@ -1,5 +1,5 @@
 # HackerRank
-Solved problems of <a href="https://www.hackerrank.com">HackerRank</a> and LeetCode
+Solved problems of <a href="https://www.hackerrank.com">HackerRank</a>
 
 # Topics
 <ul>
