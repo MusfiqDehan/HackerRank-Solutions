@@ -1,5 +1,5 @@
 # HackerRank
-Solved problems of <a href="https://www.hackerrank.com">HackerRank</a>
+Solved problems of <a href="https://www.hackerrank.com">HackerRank</a> Solutions
 
 # Topics
 <ul>
